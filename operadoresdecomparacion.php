@@ -6,7 +6,7 @@
 <title>Operadores de comparación</title>
 <body>
 	<?php
-	
+	/*
 	$edad =16;
 	if($edad>40){
 		
@@ -20,7 +20,8 @@
 	    }
 	print "<p>Tu edad es de $edad años</p>";
 	
-	
+	*/
 	?>
+	
 </body>
 </html>
