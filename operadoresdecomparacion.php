@@ -31,11 +31,18 @@
 		print "Tienes dieciocho años";
 	}*/
 	//Igualdad extricta ===
-	$edad = "18";
+	/*$edad = "18";
 	if ($edad === 18){
 		print "Tienes dieciocho años";
 	} else {
 		print "Posiblemente tienes dieciocho, pero debe ser valor numerico";
+	}*/
+	//Diferencia
+	$edad = "18";
+	if ($edad != 18){
+		print "No tienes dieciocho años";
+	} else {
+		print "Si tienes 18 años, pasa por tu credencial para votar...";
 	}
 	?>
 	
