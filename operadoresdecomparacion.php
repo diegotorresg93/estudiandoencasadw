@@ -21,6 +21,22 @@
 	print "<p>Tu edad es de $edad años</p>";
 	
 	*/
+	//Mayor que >
+	//Menor que <
+	//Menor o igual <=
+	//Mayor o igual >=
+	//Igualdad ==
+	/*$edad = "18";
+	if ($edad == 18){
+		print "Tienes dieciocho años";
+	}*/
+	//Igualdad extricta ===
+	$edad = "18";
+	if ($edad === 18){
+		print "Tienes dieciocho años";
+	} else {
+		print "Posiblemente tienes dieciocho, pero debe ser valor numerico";
+	}
 	?>
 	
 </body>
